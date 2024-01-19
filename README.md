@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# About
 
 The final project for the Building AI course - Signaling messages analyzer for testing voice services in the telecom world
 
