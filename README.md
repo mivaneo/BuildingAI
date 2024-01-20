@@ -1,4 +1,4 @@
-# Signaling messages analyzer for testing voice services in the telecom world
+# Signaling messages analyzer for testing voice services
 
 The final project for the Building AI course  
 
