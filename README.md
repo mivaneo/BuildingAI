@@ -4,7 +4,7 @@ The final project for the Building AI course
 
 ## Summary
 
-In the telecom world, there is a need to do tests to verify the implemented changes, the goal is that a machine can replace a human in certain actions. To verify the changes in the voice network, we need to perform E2E tests and then check if everything is as expected from the user experience and a signaling perspective for each test. The user only needs to choose which test scenario he wants to test, and the rest is automated from the execution of the test scenario to the verification. We would use AI to do the verification part from a signaling point of view with pass or fail results for each executed test scenario within the system environment.
+In the telecom world, there is a need to do tests to verify the implemented changes, the goal is that a machine can replace a human in certain actions. To verify the changes in the voice network, we need to perform end-to-end tests and then check if everything is as expected from the user experience and a signaling perspective for each test. The user only needs to choose which test scenario he wants to test, and the rest is automated from the execution of the test scenario to the verification. We would use AI to do the verification part from a signaling point of view with pass or fail results for each executed test scenario within the system environment.
 
 
 ## Background
