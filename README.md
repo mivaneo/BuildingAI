@@ -1,6 +1,6 @@
-## About project
+# Signaling messages analyzer for testing voice services in the telecom world
 
-The final project for the Building AI course - Signaling messages analyzer for testing voice services in the telecom world
+The final project for the Building AI course  
 
 ## Summary
 
